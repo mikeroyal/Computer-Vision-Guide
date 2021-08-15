@@ -76,7 +76,7 @@
 
 [Visual Computing Graduate Program | Stanford Online](https://online.stanford.edu/programs/visual-computing-graduate-program)
 
-# Computer Vision
+# Computer Vision Tools, Libraries, and Frameworks
 [Back to the Top](https://github.com/mikeroyal/Computer-Vision-Guide#table-of-contents)
 
 [OpenCV](https://opencv.org) is a highly optimized library with focus on real-time computer vision applications. The C++, Python, and Java interfaces support Linux, MacOS, Windows, iOS, and Android.
